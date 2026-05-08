@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aitor
+## CS student at UBA focused on systems programming
+I’m interested in:
+- Low-level programming (C, C++)
+- Computer architecture
+- Performance-critical and systems software
+  
+I enjoy understanding how computers work from the ground up by building small systems and tools.
 
-<!--
-**aitorcastro/aitorcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies
+- C / C++
+- Python
+- Linux
+- Git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently exploring
+- Systems programming fundamentals (memory, processes, concurrency)
+- Building low-level projects to better understand how software interacts with hardware
